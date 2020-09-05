@@ -1,3 +1,2 @@
 # disciplina-react-ifpe
-
-# Executar o commando npm install para baixar as dependencias de cada projeto, comitei sem a pasta node_modules.
+Executar o comando npm install em cada projeto para baixar as dependencias de cada um deles, pasta "node_modules" excluida;
